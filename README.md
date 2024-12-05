@@ -16,4 +16,4 @@
 ![image](https://github.com/user-attachments/assets/bea15b5a-f434-4832-83b1-f214352c5868)
 
 
-# # # This account is not active anymore
+# This account is not active anymore

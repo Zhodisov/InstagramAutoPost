@@ -1,0 +1,29 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwindcss -i ./static/css/styles.css -o ./static/css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhodisov/Instagram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhodisov/Instagram/issues"
+  },
+  "homepage": "https://github.com/Zhodisov/Instagram#readme",
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "autoprefixer": "^10.4.20",
+    "chart.js": "^4.4.5",
+    "flowbite": "^2.5.2",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  }
+}

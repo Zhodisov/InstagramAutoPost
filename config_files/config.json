@@ -1,0 +1,9 @@
+{
+    "upload_settings": {
+        "max_uploads_per_day": 50,
+        "upload_cycle_count": 0,
+        "max_cycle_videos": 3,
+        "interval_between_uploads_seconds": 420,
+        "pause_duration_seconds": 1800
+    }
+}
